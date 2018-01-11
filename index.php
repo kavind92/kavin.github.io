@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-            echo 'hai';
+            echo 'hai';   
         ?>
     </body>
 </html>
